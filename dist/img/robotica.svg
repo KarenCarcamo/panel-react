@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 276" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cfe3a8"/>
+      <stop offset="1" stop-color="#3d6b2a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="276" fill="url(#f)"/>
+  <g fill="#2c2418">
+    <rect x="20" y="0" width="14" height="276"/><rect x="85" y="0" width="10" height="276"/>
+    <rect x="150" y="0" width="18" height="276"/><rect x="225" y="0" width="9" height="276"/>
+    <rect x="290" y="0" width="16" height="276"/><rect x="360" y="0" width="11" height="276"/>
+    <rect x="425" y="0" width="17" height="276"/><rect x="495" y="0" width="10" height="276"/>
+    <rect x="560" y="0" width="15" height="276"/>
+  </g>
+  <g fill="#4f8a2f" opacity=".85">
+    <ellipse cx="60" cy="30" rx="60" ry="30"/><ellipse cx="200" cy="20" rx="70" ry="28"/>
+    <ellipse cx="340" cy="35" rx="70" ry="30"/><ellipse cx="470" cy="22" rx="65" ry="28"/>
+    <ellipse cx="580" cy="40" rx="50" ry="30"/>
+  </g>
+  <rect y="230" width="600" height="46" fill="#2a4a1c" opacity=".7"/>
+</svg>
